@@ -15,7 +15,6 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 29
     defaultConfig {
-        applicationId 'pl.czak.minimal'
         minSdkVersion 25
         targetSdkVersion 29
     }
